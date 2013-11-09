@@ -37,5 +37,16 @@ Tenemos que configurar nuestra jaula, primeramente montaremos /proc del anfitri�
 ![imagen26](https://github.com/jmanday/Imagenes/blob/master/imagen26.png?raw=true)
 
 Continuando con la configuración de la jaula procederemos a instalar los paquetes necesarios para que la aplicación pueda correr en este sistema mínimo. 
-Para ello instalamos los paquetes python-web2py y python.
+Para ello instalamos los paquetes python y python-web2py. 
+
+El primero lo instalamos directamente desde el gestor de paquetes apt-get:
+
+![imagen27](https://github.com/jmanday/Imagenes/blob/master/imagen27.png?raw=true)
+
+Para el segundo no es posible realizar la misma acción debido a que apt-get no tiene el repositorio, por lo que instalamos el paquete git y lo descargamos 
+de su repositorio de github:
+
+![imagen29](https://github.com/jmanday/Imagenes/blob/master/imagen29.png?raw=true)
+
+![imagen28](https://github.com/jmanday/Imagenes/blob/master/imagen28.png?raw=true)
 
