@@ -35,3 +35,7 @@ Una vez instalado el sistema accedemos a el.
 Tenemos que configurar nuestra jaula, primeramente montaremos /proc del anfitrión y luego copiando el archivo para las dns locales.
 
 ![imagen26](https://github.com/jmanday/Imagenes/blob/master/imagen26.png?raw=true)
+
+Continuando con la configuración de la jaula procederemos a instalar los paquetes necesarios para que la aplicación pueda correr en este sistema mínimo. 
+Para ello instalamos los paquetes python-web2py y python.
+
