@@ -71,18 +71,15 @@ Copiamos el fichero formulario.py desde el anfitrion al directorio del sistema m
 
 
 A continuación copiamos el fichero dentro del directorio webpy/web ya que es donde estan todos los módulos y librerias de las
-que depende nuestra aplicacion:
+que depende nuestra aplicacion y la echamos a andar:
 
 ![imagen33](https://github.com/jmanday/Imagenes/blob/master/imagen33.png?raw=true)
 
 
-Lo siguiente es echar a andar la aplicación:
+Y ver el resultado:
 
 ![imagen34](https://github.com/jmanday/Imagenes/blob/master/imagen34.png?raw=true)
 
 
-Y ver el resultado:
-
-![imagen35](https://github.com/jmanday/Imagenes/blob/master/imagen35.png?raw=true)
 
 
