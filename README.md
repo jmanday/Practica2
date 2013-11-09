@@ -19,7 +19,10 @@ Es la herramienta que he utilizado para crearme un sistema Debian básico. El co
 <pre>
 sudo debootstrap --arch=amd64 saucy /home/jaulas/saucy/ http://archive.ubuntu.com/ubuntu
 </pre>
+
+![imagen23](https://github.com/jmanday/Imagenes/blob/master/imagen23.png?raw=true)
+
+![imagen24](https://github.com/jmanday/Imagenes/blob/master/imagen24.png?raw=true)
+
 Previamente me he creado el directorio **saucy** (aunque la propia instalación te lo crea), ya que el directorio **jaulas** lo tenía ya creado por la realización de los ejercicios sobre este tema.
-<pre>
-mkdir /home/jaulas/saucy
-</pre>
+
