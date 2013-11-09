@@ -42,13 +42,13 @@ Una vez instalado y configurado el sistema accedemos a el.
 <h3>Aplicación Web</h3>
 
 Continuando con la configuración de la jaula procederemos a instalar los paquetes necesarios para que la aplicación pueda correr en este sistema mínimo. 
-Para ello instalamos los paquetes python y python-web2py. 
+Para ello instalamos los paquetes **python** y **python-web2py**. 
 
 El primero lo instalamos directamente desde el gestor de paquetes apt-get:
 
 ![imagen27](https://github.com/jmanday/Imagenes/blob/master/imagen27.png?raw=true)
 
-Para el segundo no es posible realizar la misma acción debido a que apt-get no tiene el repositorio, por lo que instalamos el paquete git y lo descargamos 
+Para el segundo no es posible realizar la misma acción debido a que apt-get no tiene el repositorio, por lo que instalamos el paquete **git** y lo descargamos 
 de su repositorio de github:
 
 ![imagen29](https://github.com/jmanday/Imagenes/blob/master/imagen29.png?raw=true)
@@ -57,12 +57,12 @@ de su repositorio de github:
 ![imagen28](https://github.com/jmanday/Imagenes/blob/master/imagen28.png?raw=true)
 
 
-Una vez que hemos clonado el repositorio de nuestro framework python-web2py en nuestro Debian mínimo pasamos a instalarlo:
+Una vez que hemos clonado el repositorio de nuestro framework **python-web2py** en nuestro Debian mínimo pasamos a instalarlo:
 
 ![imagen30](https://github.com/jmanday/Imagenes/blob/master/imagen30.png?raw=true)
 
 
-Copiamos el fichero formulario.py desde el anfitrion al directorio del sistema mínimo:
+Copiamos el fichero **formulario.py** desde el anfitrion al directorio del sistema mínimo:
 
 ![imagen31](https://github.com/jmanday/Imagenes/blob/master/imagen31.png?raw=true)
 
@@ -76,7 +76,7 @@ que depende nuestra aplicacion y la echamos a andar:
 ![imagen33](https://github.com/jmanday/Imagenes/blob/master/imagen33.png?raw=true)
 
 
-Y ver el resultado:
+Vemos el resultado:
 
 ![imagen34](https://github.com/jmanday/Imagenes/blob/master/imagen34.png?raw=true)
 
