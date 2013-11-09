@@ -28,13 +28,16 @@ Previamente me he creado el directorio **saucy** (aunque la propia instalación 
 
 <br>
 <h3>Jaula chroot</h3>
-Una vez instalado el sistema accedemos a el.
+Antes que nada tenemos que configurar nuestra jaula, primeramente montaremos /proc del anfitrión y luego copiando el archivo para las dns locales.
+
+![imagen26](https://github.com/jmanday/Imagenes/blob/master/imagen26.png?raw=true)
+
+
+Una vez instalado y configurado el sistema accedemos a el.
 
 ![imagen25](https://github.com/jmanday/Imagenes/blob/master/imagen25.png?raw=true)
 
-Tenemos que configurar nuestra jaula, primeramente montaremos /proc del anfitrión y luego copiando el archivo para las dns locales.
 
-![imagen26](https://github.com/jmanday/Imagenes/blob/master/imagen26.png?raw=true)
 
 Continuando con la configuración de la jaula procederemos a instalar los paquetes necesarios para que la aplicación pueda correr en este sistema mínimo. 
 Para ello instalamos los paquetes python y python-web2py. 
