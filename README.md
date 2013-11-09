@@ -38,6 +38,8 @@ Una vez instalado y configurado el sistema accedemos a el.
 ![imagen25](https://github.com/jmanday/Imagenes/blob/master/imagen25.png?raw=true)
 
 
+<br>
+<h3>Aplicación Web</h3>
 
 Continuando con la configuración de la jaula procederemos a instalar los paquetes necesarios para que la aplicación pueda correr en este sistema mínimo. 
 Para ello instalamos los paquetes python y python-web2py. 
