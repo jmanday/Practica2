@@ -51,5 +51,11 @@ de su repositorio de github:
 
 ![imagen29](https://github.com/jmanday/Imagenes/blob/master/imagen29.png?raw=true)
 
+
 ![imagen28](https://github.com/jmanday/Imagenes/blob/master/imagen28.png?raw=true)
+
+
+Una vez que hemos clonado el repositorio de python-web2py en nuestro Debian mínimo pasamos a instalarlo:
+
+![imagen30](https://github.com/jmanday/Imagenes/blob/master/imagen30.png?raw=true)
 
