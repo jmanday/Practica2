@@ -55,7 +55,15 @@ de su repositorio de github:
 ![imagen28](https://github.com/jmanday/Imagenes/blob/master/imagen28.png?raw=true)
 
 
-Una vez que hemos clonado el repositorio de python-web2py en nuestro Debian mínimo pasamos a instalarlo:
+Una vez que hemos clonado el repositorio de nuestro framework python-web2py en nuestro Debian mínimo pasamos a instalarlo:
 
 ![imagen30](https://github.com/jmanday/Imagenes/blob/master/imagen30.png?raw=true)
+
+
+Copiamos el fichero formulario.py desde el anfitrion al directorio del sistema mínimo:
+
+![imagen31](https://github.com/jmanday/Imagenes/blob/master/imagen31.png?raw=true)
+
+
+![imagen32](https://github.com/jmanday/Imagenes/blob/master/imagen32.png?raw=true)
 
